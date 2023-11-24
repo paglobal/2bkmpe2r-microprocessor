@@ -11,7 +11,7 @@ encapsulate the initials of
 ***2b*** - ***B***enecentia Marfo-Kwofie and [***B***randon Idun-Tawiah](https://github.com/brandonidun) <br/>
 ***k*** - ***K***wesi Asiedu Sarpong <br/>
 ***m***- [***M***ichael Acquah](https://github.com/1Mike-e) <br/>
-***p*** - [***P***aul Amoah ( myself :sweat_smile: )](https://github.com/paglobal) <br/>
+***p*** - [***P***aul Amoah (myself :sweat_smile:)](https://github.com/paglobal) <br/>
 ***e*** - [***E***mmanuel Kyeremeh](https://github.com/emmanuelkyeremeh) <br/>
 ***2r*** - ***R***ichard Ampofo and  Kusi ***R***ina Gyan <br/>
 
