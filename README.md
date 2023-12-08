@@ -6,7 +6,7 @@ First things first, I'm sure you're wondering where name came from.<br/>
 Well this originally started as a group project I had in my Microprocessors class. It was a really
 great team effort that I massively enjoyed as you could probably already tell from the project's 
 GitHub desription. Long story short, the name of the processor design and architecture is meant to 
-encapsulate the initials of me and my teammates (who I had quite a lot fun working on the project with, in case I hadn't already made that abundantly clear) <br/>
+encapsulate the initials of me and my teammates. <br/>
 
 ## Here's us
 ---
