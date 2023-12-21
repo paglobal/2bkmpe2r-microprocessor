@@ -1,6 +1,6 @@
 # 2bkmpe2r-microprocessor
 
-*Quite a mouthful*
+*Quite a mouthful!*
 
 First things first, I'm sure you're wondering where name came from.<br/>
 Well this originally started as a group project I had in my Microprocessors class. It was a really
